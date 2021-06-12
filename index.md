@@ -1,4 +1,4 @@
-**Privacy Policy - ImageNotes App**
+# Privacy Policy - ImageNotes App
 
 Muthukrishnan built the ImageNotes app as a Freemium app. This SERVICE is provided by Muthukrishnan at no cost and is intended for use as is.
 
